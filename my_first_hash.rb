@@ -1,5 +1,5 @@
 def my_hash
-  my_hash["RPG"] = "Final Fantasy"
+  my_hash = { "RPG" => "Final Fantasy" }
   
 end
 
